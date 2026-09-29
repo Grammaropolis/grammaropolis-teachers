@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "grammaropolis": {
+      "type": "http",
+      "url": "https://mcp.grammaropolis.com/api/mcp"
+    }
+  }
+}
