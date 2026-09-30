@@ -10,5 +10,8 @@
   "homepage": "https://grammaropolis.com/teachers/claude",
   "icon": "./.claude-plugin/icon.png",
   "privacyPolicyUrl": "https://mcp.grammaropolis.com/privacy",
+  "supportUrl": "https://grammaropolis.com/contact",
+  "documentationUrl": "https://github.com/Grammaropolis/grammaropolis-teachers#readme",
+  "repository": "https://github.com/Grammaropolis/grammaropolis-teachers",
   "license": "SEE LICENSE IN LICENSE"
 }
