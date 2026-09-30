@@ -3,7 +3,12 @@
   "displayName": "Grammaropolis for Teachers",
   "version": "1.0.0",
   "description": "Six grammar and writing tools for Grades 1-8 teachers, taught by the Grammaropolis characters: a pacing guide, a lesson planner, daily sentence warm-ups, exit tickets, a prewriting toolkit, and writing rubrics, with the Grammaropolis catalog connector.",
-  "author": { "name": "Grammaropolis", "url": "https://grammaropolis.com" },
+  "author": {
+    "name": "Grammaropolis",
+    "url": "https://grammaropolis.com"
+  },
   "homepage": "https://grammaropolis.com/teachers/claude",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://mcp.grammaropolis.com/privacy",
   "license": "SEE LICENSE IN LICENSE"
 }
